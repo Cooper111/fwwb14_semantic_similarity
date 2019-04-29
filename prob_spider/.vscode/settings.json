@@ -1,0 +1,11 @@
+{
+    "python.pythonPath": "F:\\Python_env\\spiderenv\\Scripts\\python.exe",
+    "python.venvPath": "F:\\Python_env",
+    "python.venvFolders": [
+        "envs",
+        ".pyenv",
+        ".direnv",
+        "spiderenv"
+      ]
+
+}
